@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OlaSouCSharp/1.0.0": {
+        "runtime": {
+          "OlaSouCSharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OlaSouCSharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
